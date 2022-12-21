@@ -1,7 +1,7 @@
-#include<stdio.h>
-int main()
+#include <stdio.h>
+int main() 
 {
-    int n,i,r,s=0,max=-9999;
+    int n,r,s=0,max=-9999;
     scanf("%d",&n);
     while(n!=0)
     {
